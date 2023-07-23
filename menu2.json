@@ -1,0 +1,122 @@
+{
+  "code": 200,
+  "msg": "成功",
+  "data": [
+      {
+          "path": "/dashboard/index",
+          "name": "dashboard",
+          "component": "/dashboard/index",
+          "meta": {
+              "icon": "HomeFilled",
+              "title": "Dashboard",
+              "isLink": "",
+              "isHide": false,
+              "isFull": false,
+              "isAffix": true,
+              "isKeepAlive": true
+          }
+      },
+      {
+          "path": "/infos",
+          "name": "infos",
+          "redirect": "/infos/qiuGou",
+          "meta": {
+              "icon": "MessageBox",
+              "title": "信息管理",
+              "isLink": "",
+              "isHide": false,
+              "isFull": false,
+              "isAffix": false,
+              "isKeepAlive": true
+          },
+          "children": [
+              {
+                    "path": "/infos/qiuGou",
+                    "name": "infosQiuGou",
+                    "component": "/infos/qiuGou/index",
+                    "meta": {
+                        "icon": "Menu",
+                        "title": "求购信息",
+                        "isLink": "",
+                        "isHide": false,
+                        "isFull": false,
+                        "isAffix": false,
+                        "isKeepAlive": true
+                    }
+              },
+              {
+                  "path": "/infos/teJia",
+                  "name": "infosTeJia",
+                  "component": "/infos/teJia/index",
+                  "meta": {
+                      "icon": "Menu",
+                      "title": "特价信息",
+                      "isLink": "",
+                      "isHide": false,
+                      "isFull": false,
+                      "isAffix": false,
+                      "isKeepAlive": true
+                  }
+              },
+              {
+                  "path": "/infos/zhaoPin",
+                  "name": "infosZhaoPin",
+                  "component": "/infos/zhaoPin/index",
+                  "meta": {
+                      "icon": "Menu",
+                      "title": "招 聘信息",
+                      "isLink": "",
+                      "isHide": false,
+                      "isFull": false,
+                      "isAffix": false,
+                      "isKeepAlive": true
+                  }
+              }
+          ]
+      },
+      {
+        "path": "/machining",
+          "name": "machining",
+          "redirect": "/machining/cates",
+          "meta": {
+              "icon": "MessageBox",
+              "title": "加工分类",
+              "isLink": "",
+              "isHide": false,
+              "isFull": false,
+              "isAffix": false,
+              "isKeepAlive": true
+          },
+          "children": [
+            {
+                "path": "/machining/cates",
+                "name": "machiningCates",
+                "component": "/machining/cates/index",
+                "meta": {
+                    "icon": "Menu",
+                    "title": "加工分类",
+                    "isLink": "",
+                    "isHide": false,
+                    "isFull": false,
+                    "isAffix": false,
+                    "isKeepAlive": true
+                }
+            },
+            {
+                "path": "/machining/list",
+                "name": "machiningList",
+                "component": "/machining/list/index",
+                "meta": {
+                    "icon": "Menu",
+                    "title": "加工信息",
+                    "isLink": "",
+                    "isHide": false,
+                    "isFull": false,
+                    "isAffix": false,
+                    "isKeepAlive": true
+                }
+            }
+          ]
+      }
+  ]
+}

@@ -1,4 +1,5 @@
 export default {
+  webname: "304Cat Admin",
   home: {
     welcome: "Welcome"
   },

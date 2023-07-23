@@ -1,0 +1,121 @@
+{
+  "code": 200,
+  "msg": "成功",
+  "data": {
+    "list": [
+      {
+        "id": "lasitemo",
+        "name": "拉丝 贴膜",
+        "icon": "https://i.imgtg.com/2023/01/16/QR57a.jpg",
+        "url": "",
+        "pid": "",
+        "createTime": "2023-07-22 12:30:22",
+        "updateTime": "2023-07-22 12:30:22",
+        "children": [
+          {
+            "id": "lasi",
+            "name": "拉丝",
+            "icon": "",
+            "url": "",
+            "pid": "lasitemo",
+            "createTime": "2023-07-22 12:30:22",
+            "updateTime": "2023-07-22 12:30:22"
+          },
+          {
+            "id": "tiemo",
+            "name": "贴膜",
+            "icon": "",
+            "url": "",
+            "pid": "lasitemo",
+            "createTime": "2023-07-22 12:30:22",
+            "updateTime": "2023-07-22 12:30:22"
+          }
+        ]
+      },
+      {
+        "id": "8kjingmian",
+        "name": "8K镜面",
+        "url": "",
+        "icon": "https://i.imgtg.com/2023/01/16/QR57a.jpg",
+        "pid": "",
+        "createTime": "2023-07-22 12:30:22",
+        "updateTime": "2023-07-22 12:30:22"
+      },
+      {
+        "id": "banjin",
+        "name": "钣金",
+        "url": "",
+        "icon": "https://i.imgtg.com/2023/01/16/QR57a.jpg",
+        "pid": "",
+        "createTime": "2023-07-22 12:30:22",
+        "updateTime": "2023-07-22 12:30:22"
+      },
+      {
+        "id": "huawenban",
+        "name": "花纹板",
+        "url": "",
+        "icon": "https://i.imgtg.com/2023/01/16/QR57a.jpg",
+        "pid": "",
+        "createTime": "2023-07-22 12:30:22",
+        "updateTime": "2023-07-22 12:30:22"
+      },
+      {
+        "id": "guanzijiagong",
+        "name": "管子加工",
+        "url": "",
+        "icon": "https://i.imgtg.com/2023/01/16/QR57a.jpg",
+        "pid": "",
+        "createTime": "2023-07-22 12:30:22",
+        "updateTime": "2023-07-22 12:30:22"
+      },
+      {
+        "id": "zhuangshicaiban",
+        "name": "装饰彩板",
+        "url": "",
+        "icon": "https://i.imgtg.com/2023/01/16/QR57a.jpg",
+        "pid": "",
+        "createTime": "2023-07-22 12:30:22",
+        "updateTime": "2023-07-22 12:30:22"
+      },
+      {
+        "id": "kangzhiwen",
+        "name": "抗指纹",
+        "url": "",
+        "icon": "https://i.imgtg.com/2023/01/16/QR57a.jpg",
+        "pid": "",
+        "createTime": "2023-07-22 12:30:22",
+        "updateTime": "2023-07-22 12:30:22"
+      },
+      {
+        "id": "buxiugangwa",
+        "name": "不锈钢瓦",
+        "url": "",
+        "icon": "https://i.imgtg.com/2023/01/16/QR57a.jpg",
+        "pid": "",
+        "createTime": "2023-07-22 12:30:22",
+        "updateTime": "2023-07-22 12:30:22"
+      },
+      {
+        "id": "chongkongsiwang",
+        "name": "冲孔丝网",
+        "url": "",
+        "icon": "https://i.imgtg.com/2023/01/16/QR57a.jpg",
+        "pid": "",
+        "createTime": "2023-07-22 12:30:22",
+        "updateTime": "2023-07-22 12:30:22"
+      },
+      {
+        "id": "linggeban",
+        "name": "零割板",
+        "url": "",
+        "icon": "https://i.imgtg.com/2023/01/16/QR57a.jpg",
+        "pid": "",
+        "createTime": "2023-07-22 12:30:22",
+        "updateTime": "2023-07-22 12:30:22"
+      }
+    ],
+    "pageNum": 1,
+    "pageSize": 10,
+    "total": 8
+  }
+}

@@ -1,4 +1,5 @@
 export default {
+  webname: "不锈猫 管理后台",
   home: {
     welcome: "欢迎使用"
   },
